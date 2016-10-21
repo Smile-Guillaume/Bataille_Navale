@@ -14,6 +14,8 @@
 #define PORTEAVION_T 6
 #define PORTEABION_NB 1
 
+#define test
+
 void waitFor(unsigned int secs){ // attendre
 
     unsigned int retTime = time(0) + secs;
